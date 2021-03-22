@@ -1,0 +1,4 @@
+- 👋 Hi, I’m Lakkie Ricardo
+- 👀 I’m interested in backend development
+- 🌱 I’m currently learning Node.js
+- 📫 How to reach me: lakkie@lakkie.net
