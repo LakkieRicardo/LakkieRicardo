@@ -1,4 +1,3 @@
 - 👋 Hi, I’m Lakkie Ricardo
-- 👀 I’m interested in backend and frontend web and software development
-- 🌱 I’m currently learning WPF/C#
-- 📫 How to reach me: lakkie@lakkie.net
+- 🌱 I’m currently learning Rust
+- 📫 How to reach me: diegorvanschie@gmail.com
