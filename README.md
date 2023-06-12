@@ -1,3 +1,4 @@
 - 👋 Hi, I’m Lakkie Ricardo
-- 🌱 I’m currently learning Rust
-- 📫 How to reach me: diegorvanschie@gmail.com
+- 🌱 I’m currently rewriting and implementing the rest of BattleMania, a [Minecraft Server](https://docs.google.com/document/d/1CoFwAVgE9wi_mPIS1PGCRY7_4NfZ0WChgYMYIQfu7SU/edit?usp=sharing)
+- 💻 I'm working at Zeiss as a Software Intern
+- 📫 How to reach me: lakkie@lakkie.net
