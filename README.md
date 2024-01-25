@@ -1,4 +1,6 @@
-- 👋 Hi, I’m Lakkie Ricardo
-- 🌱 I’m currently rewriting and implementing the rest of BattleMania, a [Minecraft Server](https://docs.google.com/document/d/1CoFwAVgE9wi_mPIS1PGCRY7_4NfZ0WChgYMYIQfu7SU/edit?usp=sharing)
-- 💻 I'm working at Zeiss as a Software Intern
-- 📫 How to reach me: lakkie@lakkie.net
+- Hi, my name is Lakkie
+- I'm currently majoring in Computer Science for an Associate's Degree
+- I'm working at Carl Zeiss AG as a Software Intern
+- My email is lakkie@lakkie.net which is the best way to reach me
+- My profile is full of projects I do for fun, as tools for other people to use, and for learning
+- I'm only focused on general-purpose programming and my favorite thing to do is to write software that people like!
