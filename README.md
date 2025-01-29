@@ -1,5 +1,5 @@
 - Hi, my name is Lakkie
-- I'm currently majoring in Computer Science for an Associate's Degree
+- I'm currently majoring in Computer Science for an Bachelor's Degree
 - I'm working at Carl Zeiss AG as a Software Intern
 - My email is lakkie@lakkie.net which is the best way to reach me
 - My profile is full of projects I do for fun, as tools for other people to use, and for learning
